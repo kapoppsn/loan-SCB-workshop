@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="67887591-eb1e-44ac-9bb0-d1ae8ad82e0e" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bvOL7Vi5xgIZIwsGwHVSkUID9K" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/com" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.LoanControllerTest.testGetLoanInfoByCustomerIdEquals2">
+    <configuration name="LoanControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="loan" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.digitalacademy.loan.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.digitalacademy.loan.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.digitalacademy.loan.controller.LoanControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoanControllerTest.testGetLoanInfoByCustomerIdEquals2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="loan" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.digitalacademy.loan.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.digitalacademy.loan.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.digitalacademy.loan.controller.LoanControllerTest" />
+      <option name="METHOD_NAME" value="testGetLoanInfoByCustomerIdEquals2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoanServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="loan" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.digitalacademy.loan.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.digitalacademy.loan.service" />
+      <option name="MAIN_CLASS_NAME" value="com.digitalacademy.loan.service.LoanServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoanServiceTest.testGetLOanInfoByIdEquals1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="loan" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.digitalacademy.loan.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.digitalacademy.loan.service" />
+      <option name="MAIN_CLASS_NAME" value="com.digitalacademy.loan.service.LoanServiceTest" />
+      <option name="METHOD_NAME" value="testGetLOanInfoByIdEquals1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.digitalacademy.loan.controller in loan" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="loan" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.digitalacademy.loan.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.digitalacademy.loan.controller" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.LoanControllerTest.testGetLoanInfoByCustomerIdEquals2" />
+        <item itemvalue="JUnit.LoanControllerTest" />
+        <item itemvalue="JUnit.LoanServiceTest" />
+        <item itemvalue="JUnit.LoanServiceTest.testGetLOanInfoByIdEquals1" />
+        <item itemvalue="JUnit.com.digitalacademy.loan.controller in loan" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="67887591-eb1e-44ac-9bb0-d1ae8ad82e0e" name="Default Changelist" comment="" />
+      <created>1589509041256</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589509041256</updated>
+      <workItem from="1589509044450" duration="8751000" />
+      <workItem from="1589518352823" duration="13971000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

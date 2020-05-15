@@ -1,0 +1,10 @@
+/Users/kapop/Desktop/loan/src/main/java/com/digitalacademy/loan/model/LoanInfo.java
+/Users/kapop/Desktop/loan/src/main/java/com/digitalacademy/loan/exception/LoanException.java
+/Users/kapop/Desktop/loan/src/main/java/com/digitalacademy/loan/Application.java
+/Users/kapop/Desktop/loan/src/main/java/com/digitalacademy/loan/model/StatusModel.java
+/Users/kapop/Desktop/loan/src/main/java/com/digitalacademy/loan/service/LoanService.java
+/Users/kapop/Desktop/loan/src/main/java/com/digitalacademy/loan/model/BaseResponse.java
+/Users/kapop/Desktop/loan/src/main/java/com/digitalacademy/loan/controller/LoanController.java
+/Users/kapop/Desktop/loan/src/main/java/com/digitalacademy/loan/model/ResponseModel.java
+/Users/kapop/Desktop/loan/src/main/java/com/digitalacademy/loan/constant/Response.java
+/Users/kapop/Desktop/loan/src/main/java/com/digitalacademy/loan/constant/LoanError.java
