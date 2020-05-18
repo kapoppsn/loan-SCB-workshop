@@ -3,6 +3,15 @@
   <component name="ChangeListManager">
     <list default="true" id="67887591-eb1e-44ac-9bb0-d1ae8ad82e0e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/coverage-reports/jacoco-unit.exec" beforeDir="false" afterPath="$PROJECT_DIR$/target/coverage-reports/jacoco-unit.exec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/loan-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/loan-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/loan-1.0-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/target/loan-1.0-SNAPSHOT.jar.original" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/jacoco/jacoco-sessions.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/jacoco/jacoco-sessions.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/jacoco/jacoco.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/jacoco/jacoco.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.digitalacademy.loan.controller.LoanControllerTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.digitalacademy.loan.controller.LoanControllerTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.digitalacademy.loan.service.LoanServiceTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.digitalacademy.loan.service.LoanServiceTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.digitalacademy.loan.controller.LoanControllerTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.digitalacademy.loan.controller.LoanControllerTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.digitalacademy.loan.service.LoanServiceTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.digitalacademy.loan.service.LoanServiceTest.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,6 +39,10 @@
   <component name="ProjectId" id="1bvOL7Vi5xgIZIwsGwHVSkUID9K" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/com" />
@@ -49,7 +62,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.LoanControllerTest.testGetLoanInfoByCustomerIdEquals2">
+  <component name="RunManager" selected="Spring Boot.Application">
     <configuration name="LoanControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="loan" />
       <extension name="coverage">
@@ -112,27 +125,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.digitalacademy.loan.controller in loan" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="loan" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.digitalacademy.loan.controller.*" />
+          <option name="PATTERN" value="com.digitalacademy.loan.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.digitalacademy.loan.controller" />
-      <option name="TEST_OBJECT" value="package" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.digitalacademy.loan.Application" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.Application" />
         <item itemvalue="JUnit.LoanControllerTest.testGetLoanInfoByCustomerIdEquals2" />
         <item itemvalue="JUnit.LoanControllerTest" />
         <item itemvalue="JUnit.LoanServiceTest" />
         <item itemvalue="JUnit.LoanServiceTest.testGetLOanInfoByIdEquals1" />
-        <item itemvalue="JUnit.com.digitalacademy.loan.controller in loan" />
       </list>
     </recent_temporary>
   </component>
@@ -147,7 +159,7 @@
       <option name="presentableId" value="Default" />
       <updated>1589509041256</updated>
       <workItem from="1589509044450" duration="8751000" />
-      <workItem from="1589518352823" duration="14076000" />
+      <workItem from="1589518352823" duration="24567000" />
     </task>
     <servers />
   </component>
